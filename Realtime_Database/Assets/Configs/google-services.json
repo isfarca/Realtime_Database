@@ -1,34 +1,34 @@
 {
   "project_info": {
-    "project_number": "194148261988",
-    "firebase_url": "https://notification-54439.firebaseio.com",
-    "project_id": "notification-54439",
-    "storage_bucket": "notification-54439.appspot.com"
+    "project_number": "916975585494",
+    "firebase_url": "https://testbase-a8cea.firebaseio.com",
+    "project_id": "testbase-a8cea",
+    "storage_bucket": "testbase-a8cea.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:194148261988:android:9b7ec9a7d3f5f7a72fbf71",
+        "mobilesdk_app_id": "1:916975585494:android:ce63718631f7ca8f6ae177",
         "android_client_info": {
-          "package_name": "de.divinus41.notification"
+          "package_name": "de.divinus41.testbase"
         }
       },
       "oauth_client": [
         {
-          "client_id": "194148261988-h9fdrjp0b71rqi8jr0iciorrlg5fajnn.apps.googleusercontent.com",
+          "client_id": "916975585494-b29jaocobufskgiss213aitb3pnmnd59.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyASpKmCEGcNeoDh22SzQ0lk44U6IJKaWM4"
+          "current_key": "AIzaSyDUpxUOMIRE2RLc_IwkHl8aSyJ5DkPKylE"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "194148261988-h9fdrjp0b71rqi8jr0iciorrlg5fajnn.apps.googleusercontent.com",
+              "client_id": "916975585494-b29jaocobufskgiss213aitb3pnmnd59.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
